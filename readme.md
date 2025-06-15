@@ -1,4 +1,6 @@
-# 
+# 🤡 Hazrat Ali
+
+# 🙉 Programmer || Software Engineering
 
 ## Available Cursor's names are listed below
 

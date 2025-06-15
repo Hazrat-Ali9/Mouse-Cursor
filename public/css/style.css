@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* for normal: font-family: "Roboto", sans-serif; */
+/* for heading:  font-family: "Poetsen One", sans-serif; */
+
+body {
+  transition: background-color 0.5s, color 0.5s;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 h6,
+p,
+button,
+div {
+  text-transform: capitalize;
+  font-family: "Roboto", sans-serif;
+}
+
+.heading {
+  font-family: "Poetsen One", sans-serif;
+}
+
+#footer {
+  background-color: #333;
+  color: #fff;
+}
+
+
+#footer ul {
+  display: flex;
+  list-style: none;
+  ;
+}
